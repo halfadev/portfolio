@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-family: 'Sacramento';
+  font-size: 54px;
+}
+h3{
+  font-family: 'Montserrat';
+}
+.hero{
+  font-family: 'Press Start 2P';
+  font-size:30px;
+}
+.top-container{
+  background-color: #98BAE7;
+  position: relative;
+  padding-top: 100px;
+}
+.leading-text{
+  text-align: center;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.middle-container{
+  background-color: #E8F0F2;
+}
+.bottom-container{
+  background-color: #E8F0F2;
+}
+.contact-me{
+  background-color: #E8F0F2;
+}
